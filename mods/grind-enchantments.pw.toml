@@ -1,6 +1,6 @@
 name = "Grind Enchantments"
 filename = "grind-enchantments-3.1.2+1.20.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WC4UgDcZ/versions/Tw5AjLl7/grind-enchantments-3.1.2%2B1.20.jar"

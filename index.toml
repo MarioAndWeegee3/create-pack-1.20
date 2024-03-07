@@ -784,11 +784,6 @@ hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
 metafile = true
 
 [[files]]
-file = "mods/rp-renames.pw.toml"
-hash = "4e544bb62651dfe012a285feaa24c104436d34e5883f345d5bf4bf7b0a9197e6"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
 metafile = true

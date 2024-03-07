@@ -1,0 +1,13 @@
+name = "Frostbyte's Maximum Mobility"
+filename = "mobility-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gkX0YuZr/versions/VpZko9R9/mobility-1.2.1.jar"
+hash-format = "sha1"
+hash = "c7a98075dd5d0c0df463a3824b9b7c4453bc9c79"
+
+[update]
+[update.modrinth]
+mod-id = "gkX0YuZr"
+version = "VpZko9R9"

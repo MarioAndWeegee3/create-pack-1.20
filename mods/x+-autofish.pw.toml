@@ -1,0 +1,13 @@
+name = "XPlus Autofish (Fabric)"
+filename = "autofish-0.9.10-SNAPSHOT.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2H1rLgy4/versions/16J8KN0O/autofish-0.9.10-SNAPSHOT.jar"
+hash-format = "sha1"
+hash = "ee8b3051257797ff75aff8f0cbd6a5c6f1fb95ee"
+
+[update]
+[update.modrinth]
+mod-id = "2H1rLgy4"
+version = "16J8KN0O"

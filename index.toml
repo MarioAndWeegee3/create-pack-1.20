@@ -65,7 +65,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "b80d1d4b39e1e9a0d2528306c7dca8537bcfb528453b24a1a81ffb4971ad5285"
+hash = "abedecb0f0cb3592660e510347c7c171b7091bc394a04496b456711669281dc7"
 metafile = true
 
 [[files]]
@@ -86,11 +86,6 @@ metafile = true
 [[files]]
 file = "mods/autocrafter-early.pw.toml"
 hash = "f51dfa27e014c2a0c8b5288ce2f9b60009231037117b0595366002cc82854fda"
-metafile = true
-
-[[files]]
-file = "mods/autofish-chao.pw.toml"
-hash = "71959f45b8bb0939da7c6f4dadb7abf2833e96a07f91e081d185e77b2ef96fdf"
 metafile = true
 
 [[files]]
@@ -800,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/slumber.pw.toml"
-hash = "31320905f9994253ed2f455c97e0707fe97bc4734f5096dc79b021369b4554b3"
+hash = "aafa022bd0c208ef58940abfff711aea8fc2d2fdd27ba5b5050e9aa4260ec448"
 metafile = true
 
 [[files]]
@@ -881,6 +876,11 @@ metafile = true
 [[files]]
 file = "mods/wiredredstone.pw.toml"
 hash = "6f1753c4ae3446f7e91bc147588e9dd7b50283075b25ef8bb017099042078157"
+metafile = true
+
+[[files]]
+file = "mods/x+-autofish.pw.toml"
+hash = "be7a860d376669aa6e5efd3a2d340b53d0a41f8a1ab10014789274cf264d889f"
 metafile = true
 
 [[files]]

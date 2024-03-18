@@ -10,7 +10,7 @@ hash = "16105c177b9ba53d80448481c3a78e57951bf29adb9fc5cb1a180a3e39f10438"
 
 [[files]]
 file = "config/grindenchantments.json"
-hash = "61c09e2469397b9c419ad9ca646d10891be082f40aa4651da3d842aca92fa27d"
+hash = "e3d5d74e2833a91856f47525ee6aeaf0c23b1e1b425509e8c4002caa5e07259f"
 
 [[files]]
 file = "config/hangglider-server.toml"
@@ -115,6 +115,11 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
+metafile = true
+
+[[files]]
+file = "mods/auto-clicker.pw.toml"
+hash = "13da5885b0c0268635c0d0d9efa4f0074b25c1c0f76cdb01f0253e3aa585b8b4"
 metafile = true
 
 [[files]]

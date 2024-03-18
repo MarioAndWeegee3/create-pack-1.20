@@ -10,7 +10,7 @@ hash = "16105c177b9ba53d80448481c3a78e57951bf29adb9fc5cb1a180a3e39f10438"
 
 [[files]]
 file = "config/grindenchantments.json"
-hash = "6a4f8565cfb51f4938c51c20f3cd80814084e0b413988c38f4e89517d4d42fee"
+hash = "61c09e2469397b9c419ad9ca646d10891be082f40aa4651da3d842aca92fa27d"
 
 [[files]]
 file = "config/hangglider-server.toml"

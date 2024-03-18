@@ -11,8 +11,8 @@
     "consume_enchanted_item": false,
     "cost_function": {
       "function": {
-        "normal_factor": 0.1,
-        "treasure_factor": 0.3,
+        "normal_factor": 0.0,
+        "treasure_factor": 0.0,
         "type": "grindenchantments:count_levels"
       },
       "type": "grindenchantments:first_enchantment"
@@ -22,8 +22,8 @@
     "enabled": true,
     "cost_function": {
       "function": {
-        "normal_factor": 0.1,
-        "treasure_factor": 0.3,
+        "normal_factor": 0.0,
+        "treasure_factor": 0.0,
         "type": "grindenchantments:count_levels"
       },
       "type": "grindenchantments:first_enchantment"

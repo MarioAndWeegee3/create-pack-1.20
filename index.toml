@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/aileron.json"
+hash = "45de6917a671f574bcbbb034a4a8a1645b05ebb1386964d24e92ba9c6eef9496"
+
+[[files]]
 file = "config/easyanvils-server.toml"
 hash = "327ca68c24f1facdd02e2a2863518074b5becee430bb0fe02d3614dd212fd997"
 

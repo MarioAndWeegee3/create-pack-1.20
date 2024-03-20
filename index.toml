@@ -29,6 +29,10 @@ file = "config/respawningshulkers.json5"
 hash = "aa0c3e1e06696899a3f5847bdd32045de28cf13414cba489f5c06263b825e906"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "8e2408d0f9f77308cc35529c8872338dc7267037b78bffee9de8d13c43e4dcb0"
+
+[[files]]
 file = "config/vectorientation.properties"
 hash = "647d2f11888713139577644a15897dc081cd0ca5d3fc9ab1145f0efec3e4469c"
 

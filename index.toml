@@ -21,6 +21,10 @@ file = "config/hangglider-server.toml"
 hash = "02c0f75513355db17f5d43a4ee64ad43f582931e56a1491fdfc0b8b47b2b2ca6"
 
 [[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "e51fb8f96950ff622533eda74936a0dd5111e473723d2b1ea0cabee507d13860"
+
+[[files]]
 file = "config/respawningshulkers.json5"
 hash = "aa0c3e1e06696899a3f5847bdd32045de28cf13414cba489f5c06263b825e906"
 
@@ -51,6 +55,10 @@ hash = "950bbd16d5e2aae76f2998696585477b77d2b763079569469f937e5cea961726"
 [[files]]
 file = "kubejs/server_scripts/cutting.js"
 hash = "698c078dbec5d845be25269fb1daff113a9e9a3735d0212e6ed559c71f3f7d54"
+
+[[files]]
+file = "kubejs/server_scripts/shulker.js"
+hash = "7af4d2edf158924d32caba9bab6e8923e60971244381e37cddf1e2224e7c16b0"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -158,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "5ec1499fde198ac315df007311135d8d63858adb14c6c95e9730760732d61032"
+hash = "546ad110838279308e92fa46583474e81484d4574ce924179d2c73744fa07ecf"
 metafile = true
 
 [[files]]
@@ -359,6 +367,11 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "66bfaf23e46a6862f29ad0a95d09ccee0039bfc1f3d5d227956225cdddc0085c"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "c6f6a8198f1e6483dcfb2c7aa4714969c26a018f6c7b2251b7647eef73e969de"
 metafile = true
 
 [[files]]
@@ -778,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "234817faae966a2587dcc1c11e599ac9ab3a2ae16073f4a399048d6dd2242cba"
+hash = "6825f68b52f294d967085eedb943dad43658ee66c1fd5edbb33c5a8dcd4b6ac3"
 metafile = true
 
 [[files]]
@@ -819,6 +832,21 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "1fe2b3aa3fb54a4c449935c7cd74c8a3af1a342e6974bf6154916908ad861d1f"
+metafile = true
+
+[[files]]
+file = "mods/shulker+.pw.toml"
+hash = "8a1e66348893c330d7ec688aa478c68be08138b1c43a77653ef280a31c4ae24c"
+metafile = true
+
+[[files]]
+file = "mods/shulker-drops-two.pw.toml"
+hash = "a53d4f730859dd3b2c1d1e1dfecc58ab56b5a5b0bdd61fae809dcc1d2eb62bee"
+metafile = true
+
+[[files]]
+file = "mods/shulker-loader.pw.toml"
+hash = "994c4bda77f85dc4da6bbe9aadb08ae733a05e0fcfc755f355ab19f7ea8cb5c8"
 metafile = true
 
 [[files]]

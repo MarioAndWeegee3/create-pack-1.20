@@ -1,0 +1,13 @@
+name = "Shulker Loader"
+filename = "shulkerloader-fabric-1.19.3-1.20-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qGvnJkaF/versions/D5W9bf0y/shulkerloader-fabric-1.19.3-1.20-1.0.10.jar"
+hash-format = "sha1"
+hash = "ec772ffb23458d496d37f6e27fcd06b28e943a37"
+
+[update]
+[update.modrinth]
+mod-id = "qGvnJkaF"
+version = "D5W9bf0y"

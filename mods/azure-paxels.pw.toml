@@ -1,13 +1,13 @@
 name = "Azure Paxels"
-filename = "azure-paxels-1.20.2-1.0.10.jar"
+filename = "azure-paxels-1.20.2-1.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sUlkLN1E/versions/C2zy1KjV/azure-paxels-1.20.2-1.0.10.jar"
+url = "https://cdn.modrinth.com/data/sUlkLN1E/versions/iYZr8icM/azure-paxels-1.20.2-1.0.11.jar"
 hash-format = "sha1"
-hash = "e11659f3f8273f8dbea7519c60092371e1d0902b"
+hash = "fd3ce7cb6fd0b3e7bc2f25b729ac23afa711cfda"
 
 [update]
 [update.modrinth]
 mod-id = "sUlkLN1E"
-version = "C2zy1KjV"
+version = "iYZr8icM"

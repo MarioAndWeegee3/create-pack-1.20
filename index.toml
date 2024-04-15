@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "f20d0b8fac813726522d26dce235f0a29fdf2f929d2c7b20c24e25731aba3876"
+hash = "c8a618b605b9c1199a7eca2338cb47c490a47e011a2aeec5bf6f31f19908d153"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "f4851f2689192aafe145a4b588262cd93553555eb57111cb5112c4c690400421"
+hash = "a661c9e77ef0d696db835fbc78e270843bf079bf969bdc6dc79cf66c5ff11ccc"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "ecbe7125b57e5c2990a7aa81f22adf687b298f748e5734a47ab216aded67851e"
+hash = "94a2d8a60407b11276b5abbed5d2602b440960dcd8c2289203928d97d27c5036"
 metafile = true
 
 [[files]]
@@ -400,7 +400,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-loot.pw.toml"
-hash = "8766521465c1cc6b57199a24008be030eabfd417c0ba7eb6c91f26c2f6ffa70a"
+hash = "6ed9dba064110665c3dcf26be139c68b290ef0079e8aece1d2aced9484ebf85b"
 metafile = true
 
 [[files]]
@@ -710,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
+hash = "2bcdb590588b04be48afdff98ba338c4470c84b159ddcdef7b932ea0417653ba"
 metafile = true
 
 [[files]]
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "292707b2bb462d684dac93cc1eadadf6ae57e3d808e73631d7df810245e37013"
+hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
 metafile = true
 
 [[files]]
@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourcify.pw.toml"
-hash = "401608fc7bcfe110b73e58cf1c20e3334f3451c5e003a72bc9cc8bc8cde88342"
+hash = "35bc81e3a1cbb73183f9bd2caf2e9e24429bf8f4e0042292903458ae3358279a"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "df67ee3c35e4d7b9adf0ff38a4dfe10bc73322160f802c2cc39eb92a541fe624"
+hash = "c8b62279ce25dc287020134e4e3438d3a06fec88aacd402db2d893efae7182c2"
 metafile = true
 
 [[files]]
@@ -950,7 +950,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes.pw.toml"
-hash = "76b20c4a8f3b359691380f30eb2778b2dbba74592e396f99228084bd9dc8032d"
+hash = "fab6ac1665f022c0ca72c73ed0974049f5453b8f4f280092b4aa5ac773fed5c2"
 metafile = true
 
 [[files]]
